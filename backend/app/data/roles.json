@@ -1,0 +1,83 @@
+{
+  "AI Engineer": {
+  "Python": 3,
+  "Machine Learning": 3,
+  "Deep Learning": 3,
+  "TensorFlow": 2,
+  "PyTorch": 2,
+  "Data Structures": 2,
+  "MLOps": 2,
+  "Cloud Computing": 2
+},
+  "Machine Learning Engineer": {
+  "Python": 3,
+  "Machine Learning": 3,
+  "Statistics": 3,
+  "Scikit-learn": 2,
+  "Data Preprocessing": 2,
+  "Model Evaluation": 2,
+  "SQL": 2,
+  "Feature Engineering": 2
+},
+  "Data Analyst": {
+  "Excel": 3,
+  "SQL": 3,
+  "Statistics": 2,
+  "Data Visualization": 2,
+  "Python": 2,
+  "Power BI": 2
+},
+  "Data Scientist": {
+    "Python": 3,
+    "Statistics": 3,
+    "Machine Learning": 3,
+    "SQL": 2,
+    "Data Visualization": 2
+  },
+  "Frontend Developer": {
+    "HTML": 3,
+    "CSS": 3,
+    "JavaScript": 3,
+    "React": 2,
+    "Git": 2
+  },
+  "Backend Developer": {
+    "Python": 2,
+    "FastAPI": 2,
+    "SQL": 2,
+    "REST APIs": 3,
+    "Authentication": 2
+  },
+  "UI/UX Designer": {
+  "UI Design": 3,
+  "UX Research": 3,
+  "Figma": 3,
+  "Wireframing": 2,
+  "Prototyping": 2,
+  "User Testing": 2,
+  "Typography": 2,
+  "Design Systems": 2
+},
+  "Full Stack Developer": {
+  "HTML": 3,
+  "CSS": 3,
+  "JavaScript": 3,
+  "React": 2,
+  "Node.js": 2,
+  "Express.js": 2,
+  "SQL": 2,
+  "Git": 2,
+  "REST APIs": 2
+},
+  "Cloud Engineer": {
+  "AWS": 3,
+  "Azure": 2,
+  "Docker": 2,
+  "Kubernetes": 2,
+  "Linux": 2,
+  "Networking": 2,
+  "DevOps": 2,
+  "CI/CD": 2,
+  "Terraform": 2
+}
+}
